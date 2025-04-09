@@ -1,6 +1,10 @@
 # pyvizionsdk
 pyvizionsdk is a software development kit for Python bindings wrapped from the original VizionSDK C++ implementation. It supports various versions of Python on different types of platforms.
 
+## What is included in the repository
+- Samples : Python samples project source code.
+- config : A config file of TechNexion Camera series for pyvizionsdk to recognize the devices.
+
 ## Supported TechNexion Cameras
 
 ### MIPI Cameras
