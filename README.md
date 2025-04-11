@@ -67,8 +67,8 @@ pyvizionsdk is a software development kit for Python bindings wrapped from the o
 - [Linux (Debian): Ubuntu Desktop 20.04 and 22.04 (64-bit)](https://developer.technexion.com/docs/python-installation#linux)
 
 #### Embedded Platforms
-- [NXP-iMX93, NXP-iMX95, NXP-iMX8MP, NXP-iMX8MM](https://developer.technexion.com/docs/python-installation#nxpimx)
-- [NVIDIA-Jetpack5 and Later](https://developer.technexion.com/docs/python-installation#nvidiajetpack5x-and-later)
+- [NXP-iMX93, NXP-iMX95, NXP-iMX8MP, NXP-iMX8MM](https://developer.technexion.com/docs/python-installation#arm)
+- [NVIDIA-Jetpack5 and Later](https://developer.technexion.com/docs/python-installation#arm)
   
 ## Documents
 - Github Pages：https://github.com/TechNexion
