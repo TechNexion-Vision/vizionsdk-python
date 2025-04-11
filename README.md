@@ -67,7 +67,7 @@ pyvizionsdk is a software development kit for Python bindings wrapped from the o
 pip install pyvizionsdk -i https://pypi.vizionsdk.com/root/pyvizionsdk/+simple/
 ```
 ⚠️ **Note for Linux and embedded systems:**  
-If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` is included in your `PATH` environment variable:
+If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` is included in your `PATH` environment variable.
 
 #### X86 Platforms
 - [Windows 10 and 11 (64-bit)](https://developer.technexion.com/docs/python-installation#windows)
