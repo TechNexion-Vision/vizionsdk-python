@@ -73,7 +73,7 @@ pyvizionsdk is a software development kit for Python bindings wrapped from the o
 ## Documents
 - Github Pages：https://github.com/TechNexion
 - Overview Document：https://developer.technexion.com/docs/product-category-overview
-- API User Guide: https://developer.technexion.com/docs/log-file-setting
+- API User Guide: https://developer.technexion.com/docs/log-file-setting-1
 
 ## Related links
 - [Technexion Main Page](https://www.technexion.com/)
