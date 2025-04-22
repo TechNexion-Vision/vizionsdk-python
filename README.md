@@ -69,16 +69,16 @@ pip install pyvizionsdk -i https://pypi.vizionsdk.com/root/pyvizionsdk/+simple/
 ⚠️ **Note for Linux and embedded systems:**  
 If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` is included in your `PATH` environment variable.
 
-#### [Windows x64](https://developer.technexion.com/docs/vizionsdk-python-installation#windows)
+#### [Windows x64](https://developer.technexion.com/docs/vizionsdk-python-installation#windowsx64)
 - Windows 10 and 11 (64-bit)
-#### [Linux x64](https://developer.technexion.com/docs/vizionsdk-python-installation#linux)
+#### [Linux x64](https://developer.technexion.com/docs/vizionsdk-python-installation#linuxx64)
 - Ubuntu Desktop 20.04 and 22.04 (64-bit)
 - UP Squared Pro 7000
 > **Note**: When using UP Squared Pro 7000, please add Gstreamer library to environment:
 ```bash
 export GST_PLUGIN_PATH=/usr/lib/gstreamer-1.0
 ```
-#### [Linux ARM64](https://developer.technexion.com/docs/vizionsdk-python-installation#arm)
+#### [Linux ARM64](https://developer.technexion.com/docs/vizionsdk-python-installation#linuxarm64)
 - NVIDIA Jetson (JetPack5 or later)
 - NXP-i.MX8MM, NXP-i.MX8MQ, NXP-i.MX8MP, NXP-i.MX93, NXP-i.MX95
 - TI-TDA4VM
