@@ -60,7 +60,7 @@ pyvizionsdk is a software development kit for Python bindings wrapped from the o
 - Python 3.12
 - Python 3.13
 
-### How to Install pyvizionsdk
+## How to Install pyvizionsdk
 
 #### `pip install` from the website directly
 ```
