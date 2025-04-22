@@ -74,10 +74,6 @@ If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` 
 #### [Linux x64](https://developer.technexion.com/docs/vizionsdk-python-installation#linuxx64)
 - Ubuntu Desktop 20.04 and 22.04 (64-bit)
 - UP Squared Pro 7000
-> **Note**: When using UP Squared Pro 7000, please add Gstreamer library to environment:
-```bash
-export GST_PLUGIN_PATH=/usr/lib/gstreamer-1.0
-```
 #### [Linux ARM64](https://developer.technexion.com/docs/vizionsdk-python-installation#linuxarm64)
 - NVIDIA Jetson (JetPack5 or later)
 - NXP-i.MX8MM, NXP-i.MX8MQ, NXP-i.MX8MP, NXP-i.MX93, NXP-i.MX95
