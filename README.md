@@ -7,49 +7,16 @@ pyvizionsdk is a software development kit for Python bindings wrapped from the o
 
 ## Supported TechNexion Cameras
 
-### MIPI Cameras
-- TEVS-AR0144
-- TEVS-AR0145
-- TEVS-AR0234
-- TEVS-AR0521
-- TEVS-AR0522
-- TEVS-AR0522
-- TEVS-AR0821
-- TEVS-AR0822
-- TEVS-AR1335
-
-### FPD-LinkIII Cameras
-
-- VLS3-AR0144
-- VLS3-AR0145
-- VLS3-AR0234
-- VLS3-AR0521
-- VLS3-AR0522
-- VLS3-AR0522
-- VLS3-AR0821
-- VLS3-AR0822
-- VLS3-AR1335
-
-### UVC Cameras
-
-- VCI-AR0144
-- VCI-AR0234
-- VCI-AR0521
-- VCI-AR0522
-- VCI-AR0522
-- VCI-AR0821
-- VCI-AR0822
-- VCI-AR1335
-
-## Supported Platforms
-- Windows 10/11
-- Ubuntu
-- NXP i.MX93
-- NXP i.MX95
-- NXP i.MX8MP
-- NXP i.MX8MM
-- Jetson Orin Nano (JetPack 5.x/6.x)
-- UP Squared Pro 7000
+| Sensor | MIPI           | FPD-LinkIII      | UVC            |
+|--------|----------------|------------------|----------------|
+| AR0144 | ✓ TEVS-AR0144  | ✓ VLS3-AR0144    | ✓ VCI-AR0144   |
+| AR0145 | ✓ TEVS-AR0145  | ✓ VLS3-AR0145    |                |
+| AR0234 | ✓ TEVS-AR0234  | ✓ VLS3-AR0234    | ✓ VCI-AR0234   |
+| AR0521 | ✓ TEVS-AR0521  | ✓ VLS3-AR0521    | ✓ VCI-AR0521   |
+| AR0522 | ✓ TEVS-AR0522  | ✓ VLS3-AR0522    | ✓ VCI-AR0522   |
+| AR0821 | ✓ TEVS-AR0821  | ✓ VLS3-AR0821    | ✓ VCI-AR0821   |
+| AR0822 | ✓ TEVS-AR0822  | ✓ VLS3-AR0822    | ✓ VCI-AR0822   |
+| AR1335 | ✓ TEVS-AR1335  | ✓ VLS3-AR1335    | ✓ VCI-AR1335   |
   
 ## Supported Versions
 
@@ -80,9 +47,10 @@ If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` 
 - TI-TDA4VM
   
 ## Documents
-- Github Pages：https://github.com/TechNexion
-- Overview Document：https://developer.technexion.com/docs/vizionsdk-overview
-- API User Guide: https://developer.technexion.com/docs/vizionsdk-api-log-file-setting
+- Github Pages: https://github.com/TechNexion
+- VizionSDK Overview: https://developer.technexion.com/docs/vizionsdk-overview
+- VizionSDK Python Installation: https://developer.technexion.com/docs/vizionsdk-python-installation
+- VizionSDK API User Guide: https://developer.technexion.com/docs/vizionsdk-api-log-file-setting
 
 ## Related links
 - [Technexion Main Page](https://www.technexion.com/)
