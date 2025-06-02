@@ -42,7 +42,7 @@ If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` 
 - Ubuntu Desktop 20.04 and 22.04 (64-bit)
 - UP Squared Pro 7000
 #### [Linux ARM64](https://developer.technexion.com/docs/vizionsdk-python-installation#linuxarm64)
-- NVIDIA Jetson (JetPack5 or later)
+- NVIDIA Jetson (JetPack6 or later)
 - NXP-i.MX8MM, NXP-i.MX8MQ, NXP-i.MX8MP, NXP-i.MX93, NXP-i.MX95
 - TI-TDA4VM
   
