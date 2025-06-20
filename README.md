@@ -36,21 +36,21 @@ pip install pyvizionsdk --extra-index-url https://pypi.vizionsdk.com/root/pyvizi
 ⚠️ **Note for Linux:**  
 If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` is included in your `PATH` environment variable.
 
-#### [Windows x64](https://developer.technexion.com/docs/vizionsdk-python-installation#windowsx64)
+#### [Windows x64](https://developer.technexion.com/docs/vision-software/vizionsdk/python/pyvizionsdk-installation#windows-x64)
 - Windows 10 and 11 (64-bit)
-#### [Linux x64](https://developer.technexion.com/docs/vizionsdk-python-installation#linuxx64)
+#### [Linux x64](https://developer.technexion.com/docs/vision-software/vizionsdk/python/pyvizionsdk-installation#linux-x86_64)
 - Ubuntu Desktop 20.04 and 22.04 (64-bit)
 - UP Squared Pro 7000
-#### [Linux ARM64](https://developer.technexion.com/docs/vizionsdk-python-installation#linuxarm64)
+#### [Linux ARM64](https://developer.technexion.com/docs/vision-software/vizionsdk/python/pyvizionsdk-installation#arm-aarch64)
 - NVIDIA Jetson (JetPack6 or later)
 - NXP-i.MX8MM, NXP-i.MX8MQ, NXP-i.MX8MP, NXP-i.MX93, NXP-i.MX95
 - TI-TDA4VM
   
 ## Documents
 - Github Pages: https://github.com/TechNexion
-- VizionSDK Overview: https://developer.technexion.com/docs/vizionsdk-overview
-- VizionSDK Python Installation: https://developer.technexion.com/docs/vizionsdk-python-installation
-- VizionSDK API User Guide: https://developer.technexion.com/docs/vizionsdk-api-log-file-setting
+- VizionSDK Overview: https://developer.technexion.com/docs/vision-software/vizionsdk
+- VizionSDK Python Installation: https://developer.technexion.com/docs/vision-software/vizionsdk/python/pyvizionsdk-installation
+- VizionSDK API User Guide: https://developer.technexion.com/docs/category/recommended-api-v25041
 
 ## Related links
 - [Technexion Main Page](https://www.technexion.com/)
