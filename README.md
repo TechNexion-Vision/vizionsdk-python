@@ -50,7 +50,7 @@ If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` 
 - Github Pages: https://github.com/TechNexion
 - VizionSDK Overview: https://developer.technexion.com/docs/vision-software/vizionsdk
 - VizionSDK Python Installation: https://developer.technexion.com/docs/vision-software/vizionsdk/python/pyvizionsdk-installation
-- VizionSDK API User Guide: https://developer.technexion.com/docs/category/recommended-api-v25041
+- VizionSDK API User Guide: https://developer.technexion.com/docs/category/vizionsdk-api
 
 ## Related links
 - [Technexion Main Page](https://www.technexion.com/)
