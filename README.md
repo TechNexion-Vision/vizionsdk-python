@@ -6,7 +6,7 @@ pyvizionsdk is a software development kit for Python bindings wrapped from the o
 - `config/` : Configuration resources for TechNexion camera series, including:
   - **VxConfig**: A configuration file used by pyvizionsdk to recognize TechNexion camera series.
   - **VxExposure**: A YAML file defining the default minimum and maximum exposure time values for each sensor and resolution.
-  - **RouteConfig**: A folder containing media route YAML file templates.
+  - **route_config**: A folder containing media route YAML file templates.
   
 ## Supported Versions
 
@@ -35,6 +35,7 @@ If you intend to use the `pyvizion-ctl` tool, please ensure that `~/.local/bin` 
 - NVIDIA Jetson (JetPack6 or later)
 - NXP-i.MX8MM, NXP-i.MX8MQ, NXP-i.MX8MP, NXP-i.MX93, NXP-i.MX95
 - TI-TDA4VM
+- Raspberry Pi 4, Raspberry Pi 5
   
 ## Documents
 - Github Pages: https://github.com/TechNexion
