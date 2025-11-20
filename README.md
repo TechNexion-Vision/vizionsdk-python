@@ -3,7 +3,10 @@ pyvizionsdk is a software development kit for Python bindings wrapped from the o
 
 ## What is included in the repository
 - `samples/` : Python samples project source code.
-- `config/` : A config file of TechNexion Camera series for pyvizionsdk to recognize the devices.
+- `config/` : Configuration resources for TechNexion camera series, including:
+  - **VxConfig**: A configuration file used by pyvizionsdk to recognize TechNexion camera series.
+  - **VxExposure**: A YAML file defining the default minimum and maximum exposure time values for each sensor and resolution.
+  - **RouteConfig**: A folder containing media route YAML file templates.
   
 ## Supported Versions
 
